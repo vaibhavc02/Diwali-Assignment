@@ -1,0 +1,11 @@
+package com.demo.module;
+
+public class LowAttendanceException extends Exception {
+	
+	    public LowAttendanceException(String msg) {
+	        super(msg);
+	    }
+	}
+
+
+

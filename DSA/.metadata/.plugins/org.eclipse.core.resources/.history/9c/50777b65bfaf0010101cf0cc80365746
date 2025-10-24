@@ -1,0 +1,24 @@
+package com.demo.test;
+
+import com.demo.CircularLinkedList.CircularLinkedList;
+
+public class TestCircularLinkedList {
+
+	public static void main(String[] args) {
+		CircularLinkedList clist=new CircularLinkedList();
+		clist.addByPosition(1, 11);
+		clist.addByPosition(2, 21);
+		clist.addByPosition(3, 18);
+		clist.addByPosition(4, 8);
+		clist.addByPosition(5, 17);
+		
+		clist.displayData();
+
+		
+
+
+		
+
+	}
+
+}
