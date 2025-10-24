@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\LinqQuery\bin\Debug\net8.0\LinqQuery.exe
+C:\Users\DELL\source\repos\LinqQuery\bin\Debug\net8.0\LinqQuery.deps.json
+C:\Users\DELL\source\repos\LinqQuery\bin\Debug\net8.0\LinqQuery.runtimeconfig.json
+C:\Users\DELL\source\repos\LinqQuery\bin\Debug\net8.0\LinqQuery.dll
+C:\Users\DELL\source\repos\LinqQuery\bin\Debug\net8.0\LinqQuery.pdb
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.dll
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\refint\LinqQuery.dll
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.pdb
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\LinqQuery.genruntimeconfig.cache
+C:\Users\DELL\source\repos\LinqQuery\obj\Debug\net8.0\ref\LinqQuery.dll
